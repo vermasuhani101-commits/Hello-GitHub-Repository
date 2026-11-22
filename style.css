@@ -312,3 +312,35 @@ footer p {
     border-radius: 5px;
     cursor: pointer;
 }
+/* Creator Section */
+.creator {
+    background-color: #f8e8ee;
+    text-align: center;
+    padding: 40px 20px;
+    margin-top: 30px;
+}
+
+.creator h2 {
+    color: #b34d70;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.creator p {
+    color: #555;
+    margin: 10px 0;
+}
+
+.creator-name {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.creator-tech {
+    font-weight: bold;
+    color: #b34d70 !important;
+}
+
+.thank-you {
+    font-style: italic;
+}
